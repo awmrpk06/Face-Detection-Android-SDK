@@ -5,7 +5,7 @@ First, you need to download OpenCV SDK for Android.
 Instruction for importing SDK to your Android project can be found here : <a href="https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html">Android SDK</a>
 Here, I built a simple Java Class with function to detect all the faces in an image and crop them. Let's get started.
 
-```java public static Bitmap[] FaceDetect(Bitmap image) ```
+```ruby public static Bitmap[] FaceDetect(Bitmap image) ```
 
 `src` : Input bitmap image
 
