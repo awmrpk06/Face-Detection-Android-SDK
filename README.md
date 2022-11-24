@@ -9,7 +9,7 @@ Here, I built a simple Java Class with function to detect all the faces in an im
 public static Bitmap[] FaceDetect(Bitmap image)
 ```
 
-`src` : Input bitmap image
+`Bitmap image` : Input bitmap image
 
 `return` : output array Bitmap images contain all faces.
 
