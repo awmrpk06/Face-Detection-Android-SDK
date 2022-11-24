@@ -36,7 +36,7 @@ public class JFaceDetection{
 		numberofFaces = i;
 		return image_face;
 	}
-	
+	/*
 	public static void main(String[] args) {
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 		String imgFile = "images/gannha.jpeg";
@@ -52,6 +52,6 @@ public class JFaceDetection{
 		
 		System.out.println("Image Detection Finished");
 		
-	}
+	}*/
 }
 
