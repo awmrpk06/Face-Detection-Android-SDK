@@ -8,8 +8,10 @@ Here, I built a simple Java Class with function to detect all the faces in an im
 ![image](https://user-images.githubusercontent.com/44139135/203688270-8099f403-d25d-411b-a682-d94b553630ef.png)
 
 `src` : Input Mat image
+
 `return` : output array Mat images contain all faces.
 Mat can be converted to BitMap :
+
 ![image](https://user-images.githubusercontent.com/44139135/203688518-6341b7bf-7edf-4b58-ac39-ab50d95c6ca9.png)
 
 
