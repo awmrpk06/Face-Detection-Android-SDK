@@ -10,8 +10,21 @@ Here, I built a simple Java Class with function to detect all the faces in an im
 `src` : Input Mat image
 
 `return` : output array Mat images contain all faces.
+
 Mat can be converted to BitMap :
 
 ![image](https://user-images.githubusercontent.com/44139135/203688518-6341b7bf-7edf-4b58-ac39-ab50d95c6ca9.png)
+
+
+# Example
+Input:
+
+![gannha](https://user-images.githubusercontent.com/44139135/203689229-63e71186-17fc-4852-b085-33c17cf58abd.jpeg)
+
+
+Output:
+
+
+![image](https://user-images.githubusercontent.com/44139135/203689270-f4f883a2-2944-4ad0-b60e-1ec02c8e6c72.png)
 
 
